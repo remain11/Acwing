@@ -1,0 +1,31 @@
+网页格式地址：https://www.acwing.com/file_system/file/content/whole/index/content/3074146/
+
+1. 知识点
+    内容较多，请在如下链接中参考：
+    https://www.acwing.com/file_system/file/content/whole/index/content/3074146/
+
+2. 创建作业 & 测试作业的正确性
+    homework 8 create 可以重新创建所有lesson_8的作业
+    homework 8 create id 可以单独创建lesson_8的第id个作业. e.g.
+        homework 8 create 0 可以只重新创建lesson_8的第0个作业
+    homework 8 test 可以评测lesson_8的所有作业
+
+3. 作业
+    注意：本次作业的2个题目不是独立的，每个题目会依赖于前一个题目，因此评测时如果当前题目错误，则不再评测后续题目。
+    创建好作业后，先进入文件夹/home/acs/homework/lesson_8/，然后：
+    (0) 进入homework_0文件夹，然后：
+        [1] 租一台云服务器
+        [2] 配置服务器别名及免密登录
+        [3] 将服务器别名写在当前目录下的server_name.txt文件中
+    (1) 进入homework_1文件夹，然后：
+        [1] 在租好的云服务器中安装docker
+        [2] 将服务器别名写在当前目录下的server_name.txt文件中
+    (2) 进入homework_2文件夹，然后：
+        [1] 将AC Terminal中的/var/lib/acwing/docker/images/docker_lesson_1_0.tar镜像上传到租好的服务器中
+        [2] 登录到租好的服务器
+        [3] 将上传的镜像提取出来
+        [4] 创建该镜像的容器，设置端口映射：20000:22。
+        [5] 去云平台控制台中修改安全组配置，放行端口20000。
+        [6] 进入该容器，创建新账户acs
+        [7] 返回AC Terminal。配置容器中acs账户的别名及免密登录。
+        [8] 将别名写在当前目录下的server_name.txt文件中
