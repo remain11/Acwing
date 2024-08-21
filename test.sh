@@ -1,6 +1,7 @@
 #! /bin/bash
 # 这是一行注释
-echo "dev7"
+echo "lsls!"
+echo "jjy!"
 echo "Hello World" #这也是注释
 :<<11
 注释1
