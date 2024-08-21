@@ -828,3 +828,189 @@ git status
 git commit -m "rm a.txt b.txt"
 git log
 tmux a
+tmuxa
+tmux a
+git relog
+git reglog
+git reflog
+ls
+cd ..
+ls
+git remote add origin git@github.com:remain11/Acwing.git
+cd project/
+git remote add origin git@github.com:remain11/Acwing.git
+git
+cd --
+git init
+ls
+ls -a
+git remote add origin git@github.com:remain11/Acwing.git
+git add .
+ssh -keygen
+ssh-keygen
+ls
+ls -a
+cd .ssh/
+ls
+cat id_rsa.pub 
+git remote add origin git@github.com:remain11/Acwing.git
+cd ..
+git remote add origin git@github.com:remain11/Acwing.git
+git add .
+git status
+git commit -m "Initial commit"
+git push -u origin main
+git branch
+git push -u origin *
+git push -u origin master
+git remote add
+ssh -T git@github.com
+vim .ssh/known_hosts 
+ssh -T git@github.com
+vim .ssh/known_hosts 
+ssh -T git@github.com
+vim .ssh/known_hosts 
+ssh -T git@github.com
+git push -u origin main
+git push -u origin master
+ls
+cd .ssh/
+ls
+pwd
+cd ..
+ls
+cd project/
+ls
+git log
+ls 
+cd homework
+ls
+cd lesson_4
+ls
+cd homework_0
+ls
+mkdir
+mkdir .ssh
+vim config
+homework 4 test
+cat config 
+ls
+ls -a
+mv config .ssh
+ls
+cd .ssh
+ls
+homework 4 test
+mv config ..
+ls
+cd ..
+rm -r .ssh
+ls
+ls -a
+homework 4 test
+homework 4 getinfo
+cat config 
+ssh myserver
+vim config 
+ls
+mkdir .ssh
+mv config .ssh
+ls
+ls -a
+homework 4 test
+rm .ssh 
+ls -a
+homework 4 test
+ls
+ssh myserver
+cd ../homework_1
+ls
+scp main.cpp myserver:~/homework/lesson_1/homework_1/
+scp main.cpp myserver:homework/lesson_1/homework_1/
+scp main.cpp myserver:homework/lesson_4/homework_1/
+mkdir dir
+ls
+ssh myserver
+ls
+cd dir/
+scp myserver:/etc/lsb-release .
+ls
+homework 4 test
+cd ..
+cd homework_2
+ls
+ssh myserver
+ls
+ssp -r dir myserver:
+ssp -r dir myserver:~/homework/lesson_4/homework_2/
+scp -r dir myserver:~/homework/lesson_4/homework_2/
+homework 4 test
+ld
+ls ../homework_3
+ls
+cd dir/
+scp -r myserver:/var/lib/locales/supported.d .
+homework 4 test
+ls
+rm -r supported.d ../../homework_3
+cd ..
+cd homework_3
+ls
+homework 4 create lesson_3
+homework 4 create_3
+ls
+homework 4 create_3
+cd ..
+ls
+cd lesson_4
+ls
+homework 4 create_4
+homework 4 create_3
+ls
+homework 4 create_3
+ls
+homework_4 create_3
+homework 4 create 3
+ls
+homework 4 test
+cd homework_3
+ls
+mkdir
+mkdir dir
+cd dir/
+ls
+scp -r myserver:/var/lib/locales/supported.d .
+homework 4 test
+cd ..
+cd homework_4
+ls
+ssh myserver
+vim remote_mkdir.sh
+ls
+cp remote_mkdir.sh remote_rmdir.sh 
+vim remote_rmdir.sh 
+chmod +x remote_rmdir.sh 
+chmod +x remote_mkdir.sh 
+./remote_mkdir.sh 111
+vim remote_mkdir.sh 
+./remote_mkdir.sh 111
+vim remote_mkdir.sh 
+./remote_mkdir.sh 111
+vim remote_rmdir.sh 
+./remote_rmdir.sh 111
+homework 4 test
+./remote_mkdir.sh 111
+ssh myserver
+ls
+vim remote_rmdir.sh 
+vim remote_mkdir.sh 
+homework 4 test
+homework 4 create
+homework 4 show
+cat .ssh/config 
+homework 4 show
+35;97;28M
+tmux -a
+tmux a
+tmu 
+tmux
