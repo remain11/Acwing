@@ -21,7 +21,7 @@ $IS
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1724214716,,"x"
+|2,0,1724224065,,"x"
 :X
 |2,0,1723952848,,"X"
 :set nonumber
@@ -369,40 +369,110 @@ $IS
 # File marks:
 'M  32  18  ~/.homework/lesson_2/tutorial.txt
 |4,77,32,18,1629785594,"~/.homework/lesson_2/tutorial.txt"
-'0  6  12  ~/project/.git/MERGE_MSG
-|4,48,6,12,1724214716,"~/project/.git/MERGE_MSG"
-'1  5  0  ~/project/readme.txt
-|4,49,5,0,1724214648,"~/project/readme.txt"
-'2  7  0  ~/project/readme.txt
-|4,50,7,0,1724214577,"~/project/readme.txt"
-'3  6  0  ~/project/readme.txt
-|4,51,6,0,1724214577,"~/project/readme.txt"
-'4  6  0  ~/project/readme.txt
-|4,52,6,0,1724213944,"~/project/readme.txt"
-'5  6  0  ~/project/readme.txt
-|4,53,6,0,1724213944,"~/project/readme.txt"
-'6  5  0  ~/project/readme.txt
-|4,54,5,0,1724213944,"~/project/readme.txt"
-'7  5  0  ~/project/readme.txt
-|4,55,5,0,1724213944,"~/project/readme.txt"
-'8  3  42  ~/.ssh/known_hosts
-|4,56,3,42,1723953033,"~/.ssh/known_hosts"
-'9  1  49  ~/.ssh/known_hosts
-|4,57,1,49,1723952979,"~/.ssh/known_hosts"
+'0  4  10  ~/test.sh
+|4,48,4,10,1724224065,"~/test.sh"
+'1  3  11  ~/test.sh
+|4,49,3,11,1724223973,"~/test.sh"
+'2  3  11  ~/test.sh
+|4,50,3,11,1724223973,"~/test.sh"
+'3  6  12  ~/project/.git/MERGE_MSG
+|4,51,6,12,1724214716,"~/project/.git/MERGE_MSG"
+'4  5  0  ~/project/readme.txt
+|4,52,5,0,1724214648,"~/project/readme.txt"
+'5  7  0  ~/project/readme.txt
+|4,53,7,0,1724214577,"~/project/readme.txt"
+'6  6  0  ~/project/readme.txt
+|4,54,6,0,1724214577,"~/project/readme.txt"
+'7  6  0  ~/project/readme.txt
+|4,55,6,0,1724213944,"~/project/readme.txt"
+'8  6  0  ~/project/readme.txt
+|4,56,6,0,1724213944,"~/project/readme.txt"
+'9  5  0  ~/project/readme.txt
+|4,57,5,0,1724213944,"~/project/readme.txt"
 
 # Jumplist (newest first):
+-'  4  10  ~/test.sh
+|4,39,4,10,1724224065,"~/test.sh"
+-'  3  11  ~/test.sh
+|4,39,3,11,1724224046,"~/test.sh"
+-'  3  11  ~/test.sh
+|4,39,3,11,1724223973,"~/test.sh"
+-'  237  25  ~/test.sh
+|4,39,237,25,1724223928,"~/test.sh"
+-'  236  25  ~/test.sh
+|4,39,236,25,1724223928,"~/test.sh"
 -'  6  12  ~/project/.git/MERGE_MSG
 |4,39,6,12,1724214716,"~/project/.git/MERGE_MSG"
+-'  6  12  ~/project/.git/MERGE_MSG
+|4,39,6,12,1724214716,"~/project/.git/MERGE_MSG"
+-'  6  12  ~/project/.git/MERGE_MSG
+|4,39,6,12,1724214716,"~/project/.git/MERGE_MSG"
+-'  6  12  ~/project/.git/MERGE_MSG
+|4,39,6,12,1724214716,"~/project/.git/MERGE_MSG"
+-'  1  0  ~/project/.git/MERGE_MSG
+|4,39,1,0,1724214684,"~/project/.git/MERGE_MSG"
+-'  1  0  ~/project/.git/MERGE_MSG
+|4,39,1,0,1724214684,"~/project/.git/MERGE_MSG"
+-'  1  0  ~/project/.git/MERGE_MSG
+|4,39,1,0,1724214684,"~/project/.git/MERGE_MSG"
 -'  1  0  ~/project/.git/MERGE_MSG
 |4,39,1,0,1724214684,"~/project/.git/MERGE_MSG"
 -'  5  0  ~/project/readme.txt
 |4,39,5,0,1724214648,"~/project/readme.txt"
 -'  5  0  ~/project/readme.txt
 |4,39,5,0,1724214648,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214648,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214648,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214648,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214648,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214648,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214648,"~/project/readme.txt"
 -'  1  0  ~/project/readme.txt
 |4,39,1,0,1724214639,"~/project/readme.txt"
 -'  1  0  ~/project/readme.txt
 |4,39,1,0,1724214639,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724214639,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724214639,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724214639,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724214639,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724214639,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724214639,"~/project/readme.txt"
+-'  7  0  ~/project/readme.txt
+|4,39,7,0,1724214577,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214577,"~/project/readme.txt"
+-'  7  0  ~/project/readme.txt
+|4,39,7,0,1724214577,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214577,"~/project/readme.txt"
+-'  7  0  ~/project/readme.txt
+|4,39,7,0,1724214577,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214577,"~/project/readme.txt"
+-'  7  0  ~/project/readme.txt
+|4,39,7,0,1724214577,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214577,"~/project/readme.txt"
+-'  7  0  ~/project/readme.txt
+|4,39,7,0,1724214577,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214577,"~/project/readme.txt"
+-'  7  0  ~/project/readme.txt
+|4,39,7,0,1724214577,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214577,"~/project/readme.txt"
 -'  7  0  ~/project/readme.txt
 |4,39,7,0,1724214577,"~/project/readme.txt"
 -'  6  0  ~/project/readme.txt
@@ -419,6 +489,42 @@ $IS
 |4,39,6,0,1724214567,"~/project/readme.txt"
 -'  5  0  ~/project/readme.txt
 |4,39,5,0,1724214567,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214567,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214567,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214567,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214567,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214567,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214567,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214567,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214567,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214567,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214567,"~/project/readme.txt"
+-'  6  0  ~/project/readme.txt
+|4,39,6,0,1724214567,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724214567,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724213944,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724213944,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724213944,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724213944,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724213944,"~/project/readme.txt"
+-'  5  0  ~/project/readme.txt
+|4,39,5,0,1724213944,"~/project/readme.txt"
 -'  5  0  ~/project/readme.txt
 |4,39,5,0,1724213944,"~/project/readme.txt"
 -'  5  0  ~/project/readme.txt
@@ -431,6 +537,30 @@ $IS
 |4,39,1,0,1724213937,"~/project/readme.txt"
 -'  1  0  ~/project/readme.txt
 |4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
+-'  1  0  ~/project/readme.txt
+|4,39,1,0,1724213937,"~/project/readme.txt"
 -'  3  42  ~/.ssh/known_hosts
 |4,39,3,42,1723953033,"~/.ssh/known_hosts"
 -'  3  42  ~/.ssh/known_hosts
@@ -461,138 +591,114 @@ $IS
 |4,39,3,42,1723953033,"~/.ssh/known_hosts"
 -'  3  42  ~/.ssh/known_hosts
 |4,39,3,42,1723953033,"~/.ssh/known_hosts"
--'  3  42  ~/.ssh/known_hosts
-|4,39,3,42,1723953033,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723953017,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  49  ~/.ssh/known_hosts
-|4,39,1,49,1723952979,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  1  0  ~/.ssh/known_hosts
-|4,39,1,0,1723952853,"~/.ssh/known_hosts"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
--'  7  0  ~/project/main.cpp
-|4,39,7,0,1723729980,"~/project/main.cpp"
 
 # History of marks within files (newest to oldest):
+
+> ~/test.sh
+	*	1724224065	0
+	"	4	10
+	^	4	11
+	.	4	9
+	+	142	19
+	+	149	16
+	+	152	17
+	+	155	17
+	+	155	0
+	+	1	0
+	+	2	0
+	+	163	0
+	+	159	0
+	+	160	0
+	+	162	0
+	+	161	0
+	+	1	1
+	+	13	3
+	+	162	0
+	+	161	0
+	+	160	0
+	+	159	21
+	+	164	20
+	+	167	3
+	+	164	25
+	+	169	27
+	+	171	3
+	+	170	9
+	+	176	16
+	+	177	3
+	+	170	10
+	+	169	0
+	+	174	16
+	+	173	7
+	+	178	6
+	+	170	7
+	+	173	0
+	+	170	7
+	+	173	7
+	+	178	6
+	+	173	5
+	+	173	7
+	+	178	4
+	+	183	7
+	+	182	4
+	+	183	0
+	+	180	48
+	+	182	30
+	+	185	15
+	+	198	0
+	+	185	10
+	+	184	0
+	+	208	0
+	+	214	0
+	+	213	10
+	+	217	2
+	+	211	1
+	+	212	0
+	+	211	10
+	+	214	10
+	+	217	13
+	+	220	14
+	+	214	5
+	+	220	17
+	+	223	0
+	+	222	0
+	+	225	15
+	+	229	3
+	+	230	0
+	+	229	0
+	+	227	0
+	+	230	32
+	+	234	12
+	+	230	24
+	+	231	17
+	+	229	28
+	+	230	16
+	+	235	15
+	+	237	26
+	+	238	9
+	+	240	4
+	+	237	4
+	+	240	26
+	+	242	0
+	+	240	21
+	+	235	13
+	+	244	32
+	+	245	24
+	+	248	7
+	+	241	4
+	+	238	4
+	+	248	5
+	+	224	0
+	+	227	7
+	+	226	7
+	+	225	3
+	+	223	3
+	+	228	3
+	+	211	3
+	+	212	3
+	+	213	3
+	+	214	3
+	+	3	12
+	+	4	9
 
 > ~/project/.git/MERGE_MSG
 	*	1724214715	0
@@ -1093,112 +1199,6 @@ $IS
 	+	155	0
 	+	152	0
 	+	153	9
-
-> ~/test.sh
-	*	1722913834	0
-	"	235	25
-	^	212	4
-	.	212	3
-	+	140	19
-	+	138	14
-	+	140	19
-	+	147	16
-	+	150	17
-	+	153	17
-	+	153	0
-	+	1	0
-	+	2	0
-	+	161	0
-	+	157	0
-	+	158	0
-	+	160	0
-	+	159	0
-	+	1	1
-	+	11	3
-	+	160	0
-	+	159	0
-	+	158	0
-	+	157	21
-	+	162	20
-	+	165	3
-	+	162	25
-	+	167	27
-	+	169	3
-	+	168	9
-	+	174	16
-	+	175	3
-	+	168	10
-	+	167	0
-	+	172	16
-	+	171	7
-	+	176	6
-	+	168	7
-	+	171	0
-	+	168	7
-	+	171	7
-	+	176	6
-	+	171	5
-	+	171	7
-	+	176	4
-	+	181	7
-	+	180	4
-	+	181	0
-	+	178	48
-	+	180	30
-	+	183	15
-	+	196	0
-	+	183	10
-	+	182	0
-	+	206	0
-	+	212	0
-	+	211	10
-	+	215	2
-	+	209	1
-	+	210	0
-	+	209	10
-	+	212	10
-	+	215	13
-	+	218	14
-	+	212	5
-	+	218	17
-	+	221	0
-	+	220	0
-	+	223	15
-	+	227	3
-	+	228	0
-	+	227	0
-	+	225	0
-	+	228	32
-	+	232	12
-	+	228	24
-	+	229	17
-	+	227	28
-	+	228	16
-	+	233	15
-	+	235	26
-	+	236	9
-	+	238	4
-	+	235	4
-	+	238	26
-	+	240	0
-	+	238	21
-	+	233	13
-	+	242	32
-	+	243	24
-	+	246	7
-	+	239	4
-	+	236	4
-	+	246	5
-	+	222	0
-	+	225	7
-	+	224	7
-	+	223	3
-	+	221	3
-	+	226	3
-	+	209	3
-	+	210	3
-	+	211	3
-	+	212	3
 
 > ~/output.txt
 	*	1722072784	0
